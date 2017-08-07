@@ -1,0 +1,23 @@
+#display {
+  font-size: 14px;
+  width: 200px;
+  height: 40px;
+  text-align: right;
+}
+#0 {
+  width: 100px; !important;
+}
+.btn {
+  margin-left:2px;
+  margin-top:2px;
+  width: 50px;
+}
+
+.btn:active {
+  background-color: #27496d;
+  text-shadow: -1px 1px white;
+}
+button:focus {
+  outline: none
+}
+
